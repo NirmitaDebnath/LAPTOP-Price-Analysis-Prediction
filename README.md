@@ -1,5 +1,4 @@
 # LAPTOP-Price-Analysis & Prediction
-# 
 Importing libraries
 # 
 Imported Dataset
